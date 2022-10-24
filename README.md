@@ -134,7 +134,7 @@ Pull Request를 보냈다면 그 후에는 <a href='https://apply.techcourse.co.
 
 - 게임이 종료된 후 재시작 버튼을 클릭해 게임을 다시 시작할 수 있다.
 
-- 사용자가 <span style="color:red">잘못된 값을 입력한 경우 alert</span>으로 에러 메시지를 보여주고, <span style="color:red">다시 입력</span>할 수 있게 한다. 혹은 사용자가 잘못된 값을 입력할 경우 IllegalArgumentException을 발생시킨 후 애플리케이션은 종료되어야 한다.(두 문서가 다름..)
+- 사용자가 <span style="color:red">잘못된 값을 입력한 경우 alert</span>으로 에러 메시지를 보여주고, <span style="color:red">다시 입력</span>할 수 있게 한다.
 
 - **<실행 화면>**
 
