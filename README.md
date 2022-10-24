@@ -83,7 +83,7 @@ play(123, 124); // '2스트라이크'
 - Git의 커밋 단위는 앞 단계에서 README.md 파일에 정리한 기능 목록 단위로 추가한다.
   - <a href='https://gist.github.com/stephenparish/9941e89d80e2bc58a153'>AngularJS Commit Message Conventions</a> 참고해 commit log를 남긴다
   - <a href='https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716'>여기</a>도 괜찮은 듯!
-  - <span href='https://www.conventionalcommits.org/ko/v1.0.0/'>한글로 번역된 이 페이지</span>은 특히 더 괜찮다!
+  - <a href='https://www.conventionalcommits.org/ko/v1.0.0/'>한글로 번역된 이 페이지</a> 특히 더 괜찮다!
 
 - 과제 진행 및 제출 방법은 <a href='https://github.com/woowacourse/woowacourse-docs/tree/main/precourse'>프리코스 과제 제출 문서</a>를 참고한다.
   - 1. fork하기
