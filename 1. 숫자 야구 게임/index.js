@@ -7,3 +7,13 @@ const twoBall = document.getElementById('twoBall');
 const threeBall = document.getElementById('threeBall');
 const oneBallOneStrike = document.getElementById('oneBallOneStrike');
 const twoBallOneStrike = document.getElementById('twoBallOneStrike');
+
+export default function BaseballGame() {
+  this.play = function (computerInputNumbers, userInputNumbers) {
+    return "결과 값 String";
+  };
+
+  Nothing.style.display = 'none';
+}
+
+BaseballGame()
