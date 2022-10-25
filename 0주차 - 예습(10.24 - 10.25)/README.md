@@ -149,6 +149,6 @@ play(123, 124); // '2스트라이크'
 <br>
 
 ## 🔮 새로 알게 된 것
-- 왜 같은 레포인데 원하는 코드가 안 보이지 하고 엄청 고민했다. 답은 브랜치에 있었는데, 브랜치를 확인하지 않은 것.. 브랜치를 꼭 확인하자.
+- 왜 같은 레포인데 원하는 코드가 안 보이지 하고 엄청 고민했는데 브랜치가 나뉘어져 있는 거였음. 브랜치를 꼭 확인하자.
 - getElementById를 querySelector보다 많이 쓴다는 점.
 - 자바스크립트에서도 리액트의 컴포넌트처럼 기능을 나눌 수 있다. <a href='https://github.com/NaRae-tech/javascript-baseball-precourse/tree/retry'>이곳의 retry 브랜치</a> 참고하기.
