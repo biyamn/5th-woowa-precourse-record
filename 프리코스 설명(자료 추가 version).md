@@ -4,8 +4,13 @@
 - 외부 라이브러리(jQuery, Lodash 등)를 사용하지 않고, 순수 Vanilla JS로만 구현한다.
 
 - 자바스크립트 코드 컨벤션을 지키면서 프로그래밍 한다.
-  - 내가 찾은 <a href='https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-1%ED%8E%B8'>자바스크립트 코딩 컨벤션</a>에 대한 글
-  - 내가 찾은 <a href='https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%8E%B8'>자바스크립트 네이밍 컨벤션</a>에 대한 글
+  - <a href='https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EB%B0%8F-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-1%ED%8E%B8'>자바스크립트 코딩 컨벤션에 대한 글</a>
+  - <a href='https://velog.io/@cada/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-%ED%8E%B8'>자바스크립트 네이밍 컨벤션에 대한 글</a>
+  - <a href='https://standardjs.com/'>JavaScript Standard Style</a>
+  - <a href='https://google.github.io/styleguide/jsguide.html'>Google JavaScript Style Guide</a>
+  - <a href='https://ui.toast.com/fe-guide/ko_CODING-CONVENTION'>NHN FE개발랩</a>
+  - <a href='https://github.com/airbnb/javascript'></a>
+
 
 - indent(인덴트, 들여쓰기) depth를 3이 넘지 않도록 구현한다. 2까지만 허용한다
   - 예를 들어 while문 안에 if문이 있으면 들여쓰기는 2이다.

@@ -43,7 +43,7 @@ play(123, 124); // '2스트라이크'
 <br>
 
 ### 라이브러리
-- 컴퓨터의 랜덤 값은 반드시 JavaScript의 Math.Random 대신 MissionUtils 라이브러리의 Random.pickNumberInRange를 사용해 구한다.
+- 컴퓨터의 랜덤 값은 반드시 JavaScript의 Math.Random 대신 <a href='https://github.com/woowacourse-projects/javascript-mission-utils#mission-utils'>MissionUtils 라이브러리</a>의 Random.pickNumberInRange를 사용해 구한다.
   - MissionUtils 라이브러리 스크립트는 index.html에 이미 포함되어 전역 객체에 추가되어 있으므로, 따로 import 하지 않아도 구현 코드 어디에서든 사용할 수 있다.
   - 
     ```javascript
@@ -72,7 +72,7 @@ play(123, 124); // '2스트라이크'
 
 - **<실행 화면>**
 
-  <img src='./1. 숫자 야구 게임/images/숫자야구게임 실행화면.gif'>
+  <img src='/0주차 - 예습(10.24 - 10.25)/images/숫자야구게임 실행화면.gif'>
 
 <br>
 
@@ -141,12 +141,15 @@ play(123, 124); // '2스트라이크'
     - 1볼 1스트라이크
     - 2볼 1스트라이크 
   
-
+### 3. 추가적으로 하고 싶은 것 
+- js 파일 기능별로 분리
 
 <br>
 
 ## 📌 참고한 문서
 - <a href='https://velog.io/@chloeee/getElementById-%EA%B7%B8%EB%A6%AC%EA%B3%A0-querySelector-%EC%B0%A8%EC%9D%B4%EC%A0%90'>getElementById 그리고 querySelector 차이점</a>
+
+<br>
 
 ## 🔮 새로 알게 된 것
 - 왜 같은 레포인데 원하는 코드가 안 보이지 하고 엄청 고민했다. 답은 브랜치에 있었는데, 브랜치를 확인하지 않은 것.. 브랜치를 꼭 확인하자.
