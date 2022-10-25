@@ -1,4 +1,4 @@
-# <2022년 프리코스에 관한 설명 - 개인적으로 추가 ver.>
+# <2022년 프리코스에 관한 설명 - 자료 추가 ver.>
 ## ✅ 프로그래밍 요구사항
 ### 공통 요구사항
 - 외부 라이브러리(jQuery, Lodash 등)를 사용하지 않고, 순수 Vanilla JS로만 구현한다.
@@ -86,4 +86,4 @@ Pull Request를 보냈다면 그 후에는 <a href='https://apply.techcourse.co.
 <br>
 
 ## ✅ 참고하면 좋은 주소
-- <a href='https://github.com/biyamn/woowacourse-precourse-record'>4기 프론트 프리코스 기록을 정리한 개인 깃허브</a>
+- <a href='https://github.com/biyamn/woowacourse-precourse-record'>4기 백엔드 프리코스 기록을 정리한 개인 깃허브</a>
