@@ -88,14 +88,16 @@ play(123, 124); // '2스트라이크'
   - <a href='https://www.conventionalcommits.org/ko/v1.0.0/'>한글로 번역된 이 페이지</a> 는 특히 더 괜찮다!
 
 - 과제 진행 및 제출 방법은 <a href='https://github.com/woowacourse/woowacourse-docs/tree/main/precourse'>프리코스 과제 제출 문서</a>를 참고한다.
-  1. fork하기
-  2. fork한 저장소를 clone하기
-  3. 기능 구현을 위한 브랜치 생성하기
-  4. IDE(vscode 등)로 가져오기
-  5. 기능 구현
-  6. 그 후 add, commit
-  7. 내 원격 저장소에도 올리기 
-  8. Pull Request 보내기
+```
+1. fork하기
+2. fork한 저장소를 clone하기
+3. 기능 구현을 위한 브랜치 생성하기
+4. IDE(vscode 등)로 가져오기
+5. 기능 구현
+6. 그 후 add, commit
+7. 내 원격 저장소에도 올리기 
+8. Pull Request 보내기
+```
 
 <br>
 
