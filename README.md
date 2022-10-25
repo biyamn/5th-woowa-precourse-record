@@ -117,6 +117,23 @@ Pull Request를 보냈다면 그 후에는 <a href='https://apply.techcourse.co.
 
 <br>
 
+### 풀리퀘스트
+#### (1) 풀리퀘스트 주소
+
+- <a href='https://github.com/woowacourse/javascript-subway-map-precourse/pulls'>작년 지하철 노선도 문제</a>
+
+- <a href='https://github.com/woowacourse/javascript-subway-path-precourse/pulls'>작년 지하철 노선도 경로 문제</a>
+
+<br>
+
+#### (2) 풀리퀘스트 읽는 법
+- 초록색 배경: 추가되거나 변경된 내용 
+
+- 빨간색 배경: 삭제된 내용
+
+
+<br>
+
 # <프리코스 문제들>
 ## 1. ⚾ 숫자 야구 게임 ⚾
 ### ✅ 기능 요구사항
