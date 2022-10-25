@@ -81,3 +81,9 @@ Pull Request를 보냈다면 그 후에는 <a href='https://apply.techcourse.co.
 - 초록색 배경: 추가되거나 변경된 내용 
 
 - 빨간색 배경: 삭제된 내용
+
+
+<br>
+
+## ✅ 참고하면 좋은 주소
+- <a href='https://github.com/biyamn/woowacourse-precourse-record'>4기 프론트 프리코스 기록을 정리한 개인 깃허브</a>
