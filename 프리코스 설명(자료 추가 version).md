@@ -10,7 +10,23 @@
   - <a href='https://google.github.io/styleguide/jsguide.html'>Google JavaScript Style Guide</a>
   - <a href='https://ui.toast.com/fe-guide/ko_CODING-CONVENTION'>NHN FE개발랩</a>
   - <a href='https://github.com/airbnb/javascript'></a>
+  - NHN FE개발랩에 따르면...
+    ```javascript
+    // 상수는 영문 재문자 스네이크 표기법 사용
+    SYMBOLIC_CONSTANTS
 
+    // 생성자는 대문자 카멜 케이스
+    class ConstructorName {
+
+    }
+
+    // 변수, 함수는 카멜 케이스 사용
+    let variableName;
+    const rDesc;
+    function getPropertyName() {
+      
+    }
+    ```
 
 - indent(인덴트, 들여쓰기) depth를 3이 넘지 않도록 구현한다. 2까지만 허용한다
   - 예를 들어 while문 안에 if문이 있으면 들여쓰기는 2이다.
