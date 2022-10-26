@@ -96,8 +96,8 @@ play(123, 124); // '2스트라이크'
   - Math.Random 대신 MissionUtils 라이브러리의 Random. pickNumberInRange 사용 ⭕
   - 세자리 모두 다른 랜덤 숫자 생성 ⭕
 
-- 사용자의 입력
-  - 세자리 숫자 입력
+- 사용자의 입력 ⭕
+  - 세자리 숫자 입력 ⭕
   - 세자리가 아니거나 잘못된 값을 입력하면 alert, 그 후 다시 입력 가능하도록
 
 - 입력과 랜덤 숫자 비교
@@ -161,6 +161,16 @@ play(123, 124); // '2스트라이크'
 - 자바스크립트에서도 리액트의 컴포넌트처럼 기능을 나눌 수 있다. <a href='https://github.com/NaRae-tech/javascript-baseball-precourse/tree/retry'>이곳의 retry 브랜치</a> 참고하기.
 - 자바스크립트도 리액트의 컴포넌트처럼 파일을 나눌 수 있다. 모듈을 나눈다고 하는 것 같음(모듈: 하나의 기능이 하나의 파일로 구성된 형태) <a href='https://baeharam.netlify.app/posts/javascript/module'>[JS] 모듈에 대한 이해와 사용법</a>을 참고하자!
 - 모듈을 나눠 함수를 import 할 때는 `import { 함수 }`, 변수를 import 할 때는 그냥 `import 변수`라고 쓰는 걸 몰라서 고생했다.
+- 어떤 함수 안에서 정의된 변수를 밖에서 쓰려면? 함수 밖에서 let inputValue;와 같이 선언하고 함수 안에서 바꾸면 됨
+  ```javascript
+  input.addEventListener("input", checkInput);
+    
+  function checkInput() {
+    let inputValue = document.getElementById("input").value;
+    // console.log(inputValue); // 정상 작동
+  }
+  console.log(inputValue); // 오류(inputValue is not defined)
+  ```
 
 <br>
 

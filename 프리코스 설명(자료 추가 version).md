@@ -9,7 +9,7 @@
   - <a href='https://standardjs.com/'>JavaScript Standard Style</a>
   - <a href='https://google.github.io/styleguide/jsguide.html'>Google JavaScript Style Guide</a>
   - <a href='https://ui.toast.com/fe-guide/ko_CODING-CONVENTION'>NHN FE개발랩</a>
-  - <a href='https://github.com/airbnb/javascript'></a>
+  - <a href='https://github.com/airbnb/javascript'>airbnb JavaScript Style Guide</a>
   - NHN FE개발랩에 따르면...
     ```javascript
     // 상수는 영문 재문자 스네이크 표기법 사용
@@ -38,8 +38,7 @@
 
 - import 문을 이용해 스크립트를 모듈화하고 불러올 수 있게 만든다.
   - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/import
-  - https://www.daleseo.com/js-module-import/ (따로 찾은 페이지 - 설명 굿)
-
+  - https://www.daleseo.com/js-module-import/ (설명 굿)
 - 함수(또는 메소드)의 길이가 15라인을 넘어가지 않도록 구현한다.
   - 함수(또는 메소드)가 한 가지 일만 잘 하도록 구현한다.
 
@@ -52,8 +51,8 @@
 
 - Git의 커밋 단위는 앞 단계에서 README.md 파일에 정리한 기능 목록 단위로 추가한다.
   - <a href='https://gist.github.com/stephenparish/9941e89d80e2bc58a153'>AngularJS Commit Message Conventions</a> 참고해 commit log를 남긴다
-  - <a href='https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716'>여기</a>에서는 더 간결하게 설명하고 있다(영문)
-  - <a href='https://www.conventionalcommits.org/ko/v1.0.0/'>한글로 번역된 이 페이지</a> 는 특히 더 괜찮다!
+  - <a href='https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716'>여기에서</a>는 더 간결하게 설명하고 있다(영문)
+  - 한글로 번역된<a href='https://www.conventionalcommits.org/ko/v1.0.0/'> 이 페이지</a> 는 특히 더 괜찮다!
 
 - 과제 진행 및 제출 방법은 <a href='https://github.com/woowacourse/woowacourse-docs/tree/main/precourse'>프리코스 과제 제출 문서</a>를 참고한다.
 ```
@@ -109,3 +108,34 @@ Pull Request를 보냈다면 그 후에는 <a href='https://apply.techcourse.co.
 ## ✅ 참고하면 좋은 주소
 - <a href='https://github.com/Seongwon97/woowa_precourse_record'>4기 백엔드 프리코스 기록을 정리한 개인 깃허브</a>
 - <a href='https://github.com/NaRae-tech/javascript-baseball-precourse/tree/baseballGame'>숫자야구 문제 자바스크립트 ver. 4기 참여자1 예제(retry 브랜치)</a> 
+
+<br>
+
+## ✅ 오티(22.10.26) 내용 정리
+- 철저한 현장 지향형 교육
+- 10개월도 현장에서 필요로 하는 능력을 모두 개발하기 어렵기 때문에 일정 수준 이상의 프로그래밍 능력을 갖춘 사람을 뽑으려고 한다(3~6개월 독학 수준)
+- 프리코스란? 
+  - 본 과정을 맛볼 수 있음(강의 최소화) 
+  - 읽기 좋고 유지보수하기 좋은 코드를 짜는 경험, 테스트를 만들어 보는 경험을 할 수 있게 해준다. (설계 역량, 추상화 역량 -> 이걸 처음 해보는 지원자들이 많다.)
+- 과제들의 요구사항만 나갈 것. 뭘 공부해라 이런 거 안 알려줌. 스스로 문제를 해결하는 경험을 쌓을 수 있도록 -> 자기주도적 역량을 키울 수 있다.
+  - 본 코스도 비슷하다. 강의는 3~4시간 밖에 안되고 나머지는 크루들끼리 스터디, 짝 프로그래밍 등 자기주도적 학습 역량을 키운다.
+- 이번에 3300명이 함께 하며 이제 `프리코스 커뮤니티`라는 것이 생긴다. 함께 성장할 수 있는 공간. 
+  - 3300명이 모이는 게 쉬운 일이 아니기 때문에 이 기회를 이용하여
+  - 다만, 1주차 미션이 끝나고 나서야 1주차에 대한 커뮤니티가 열린다!(이미 마감한 미션에 대해서만 활동을 한다)
+  - 함께하는 것도 중요하지만 스스로 해보는 것이 더 중요하기 때문. + 그래야 최종 코딩테스트도 잘 볼 수 있음
+  - 스스로 문제를 계속 고민해보면서 일단 풀긴 풀고, 나중에 더 나은 코드를 보고 지원자들과 토론한다면 얻는게 많을 것이다
+  - 2주차 첫번째 날부터 커뮤니티는 시작된다.
+  - 깃헙 디스커션이라는 곳도 활성화 될 것이다.
+  - 경쟁보다는 협업!하는 가치관을 미리 공유하는 것. 본 교육의 맛보기 정도!(상호 협력, 지식 공유, 소프트스킬)
+  - 성장을 가장 큰 목적으로 두고 참가하자!
+
+  <커뮤니티 구성>
+  1. peer 리뷰: 코드를 지원자들이 리뷰해주는 것
+  2. 아고라: 학습에 관련한 토론, 질의응답
+  3. 학습 컨텐츠 공유: 스터디를 만든다든지 등을 할 수 있다.
+
+- 1주차 미션: 온보딩의 성격. 4주차 동안 이렇게 진행될 것이다~(쉬운 난이도) + 언어 자체에 익숙해지는 기간(프론트: 자바스크립트) + 깃에 익숙해지는 기간 + 문제를 해결하기 위한 함수를 만드는데 익숙해지는 기간
+- 소프트 스킬은 '함께'여야 기를 수 있다. 우리가 경험한 협업은 진정한 협업이 아니다(너는 프론트엔드, 너는 PPT, 너는 백엔드.. 이건 역할분담임) 우테코에서는 찐한 협업을 하게 된다.
+- 최종 코딩테스트도 인터넷 검색이 가능하다. 문제 해결을 위한 역량을 보려고 하는 것이기 때문.
+- 4주 동안 못잔다고 죽지는 않는다. 모든 시간을 여기에 투자해봐라.(기말 포기) 4주간 온전히 몰입한다면 엄청난 성장을 할 것이다. 불합격 하더라도 남는게 있다. "잠을 줄이십시오" / 느리더라도 묵묵히 걸어가라 자신을 믿고!
+- 경험이 적더라도 할 수 는 있다. 근데 힘들 수는 있다.
