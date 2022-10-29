@@ -16,7 +16,7 @@
 
 ### 📜 회고록
 - 지원 회고
-  - 지원하게 된 계기와 작성한 지원서, 온라인 설명회, 프리코스 OT 등에 관해 정리하여 블로그에 <a href='https://velog.io/@hamham/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-5%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%A7%80%EC%9B%90-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%A4%80%EB%B9%84'>[우아한테크코스 5기 프론트] 지원 이야기 + 프리코스 준비</a> 작성
+  지원하게 된 계기와 작성한 지원서, 온라인 설명회, 프리코스 OT 등에 관해 정리하여 블로그에 <a href='https://velog.io/@hamham/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-5%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%A7%80%EC%9B%90-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%A4%80%EB%B9%84'>[우아한테크코스 5기 프론트] 지원 이야기 + 프리코스 준비</a> 작성
 
 - 1주차 회고
 
