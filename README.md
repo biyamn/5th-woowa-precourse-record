@@ -30,4 +30,4 @@
 ### 🔎 기타 정리
 - 질문하는 법에 관한 영상/글을 보고 블로그에 <a href='https://velog.io/@hamham/%EC%A7%88%EB%AC%B8-%EC%9E%98%ED%95%98%EB%8A%94-%EB%B2%95'>질문 잘하는 법</a> 포스팅
 
-- 노션에 클린코드에 관한 영상을 보고 <a href='https://faceted-dash-136.notion.site/936811d027c24477be36970a5c608af5'>프론트엔드 클린코드</a> 작성
+- 클린코드에 관한 영상을 보고 노션에 <a href='https://faceted-dash-136.notion.site/936811d027c24477be36970a5c608af5'>프론트엔드 클린코드</a> 작성
