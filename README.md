@@ -4,7 +4,9 @@
 <br>
 
 ### 💻 작성한 코드
-- 1주차 과제: 
+- 1주차 과제
+  - <a href='https://github.com/biyamn/5th-woowa-precourse-record/tree/main/1%EC%A3%BC%EC%B0%A8%20-%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EB%AF%B8%EC%85%98(10.26%20-%2011.1)'>제출한 1주차 미션 코드</a>
+  - <a href='https://github.com/woowacourse-precourse/javascript-onboarding/pull/207'>제출한 1주차 미션 Pull Request 주소</a>
 
 - 2주차 과제: 
 
