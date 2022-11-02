@@ -1,5 +1,7 @@
 # 2022-woowa-precourse-record
 >2022 우아한테크코스 5기의 프론트엔드 **프리코스**에 4주간 참여하며 학습한 내용을 정리합니다. 
+
+
 >소감, 학습 내용, 설명회&OT&코수타 등에 관한 내용은 **<a href='https://faceted-dash-136.notion.site/5-4c2632201c444fdfbbcb263fa6af305b'>이곳에서</a>** 확인하실 수 있습니다.
 
 <br>
