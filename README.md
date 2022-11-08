@@ -8,11 +8,11 @@
 
 ### 💻 작성한 코드
 - 1주차 미션
-  - 제출한 1주차 온보딩 코드(현재 레포지토리의 '1주 차 - 온보딩 미션(10.26 - 11.1)' 폴더)
+  - <a href='https://github.com/biyamn/5th-woowa-precourse-record/tree/main/1%EC%A3%BC%20%EC%B0%A8%20-%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EB%AF%B8%EC%85%98(10.26%20-%2011.1)'>제출한 1주차 온보딩 코드</a>
   - <a href='https://github.com/woowacourse-precourse/javascript-onboarding/pull/207'>제출한 1주차 미션 Pull Request 주소</a>
 
 - 2주차 미션
-  - 제출한 2주차 숫자 야구 게임 코드(현재 레포지토리의 '2주 차 - 숫자 야구 게임(11.2 - 11.8)' 폴더)
+  - <a href='https://github.com/biyamn/5th-woowa-precourse-record/tree/main/2%EC%A3%BC%20%EC%B0%A8%20-%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC%20%EA%B2%8C%EC%9E%84(11.2%20-%2011.8)'>제출한 2주차 숫자 야구 게임 코드</a>
   - <a href='https://github.com/woowacourse-precourse/javascript-baseball/pull/311'>제출한 2주차 미션 Pull Request 주소</a>
 
 - 3주차 미션
