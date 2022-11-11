@@ -28,7 +28,7 @@
 - 1주차 회고
   - <a href='https://velog.io/@hamham/%EC%9A%B0%ED%85%8C%EC%BD%94-1%EC%A3%BC%EC%B0%A8-%EB%AF%B8%EC%85%98-%ED%9B%84%EA%B8%B0'>[우테코] 1주 차 미션 풀이(+코드 리뷰), 회고</a>
 - 2주차 회고
-
+  - <a href='https://velog.io/@hamham/%EC%9A%B0%ED%85%8C%EC%BD%94-2%EC%A3%BC-%EC%B0%A8-%EB%AF%B8%EC%85%98-%ED%92%80%EC%9D%B4%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%ED%9A%8C%EA%B3%A0'>[우테코] 2주 차 미션 풀이(+코드 리뷰), 회고</a>
 - 3주차 회고
 
 - 4주차 회고
